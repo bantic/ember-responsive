@@ -57,6 +57,15 @@
             });
 
 
+         Tests
+         ~──────
+
+         To run the tests, after cloning do:
+
+           * `npm install`
+           * `bower install`
+           * `grunt test`
+
          License
          ~──────
 
